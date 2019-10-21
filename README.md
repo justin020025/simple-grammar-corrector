@@ -1,6 +1,6 @@
 # Grammar corrector modified from spelling corrector
 
-### Goal:modify the code which corrects spelling mistakes to the code that corrects grammar error
+### Goal:Peter Norvig implemented a lightweight project to fix spelling mistakes. Now I modify it to a grammar corrector.
 <br>
 <b>input</b> : a phrase with less than or equal to 5 words
 <br>
